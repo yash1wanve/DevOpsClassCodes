@@ -1,6 +1,6 @@
 
  Addressbook Tutorial V2.00001sq
-
+sq
 s
 
 This tutorial teaches you some of the basic concepts in [Vaadin Framework](https://vaadin.com). It is meant to be
